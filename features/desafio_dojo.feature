@@ -11,7 +11,7 @@ Cenario: Cadastrar novo usuario
 
 Dado que esteja logado no site orangehrm
 Quando realizar o cadastro de um novo usuario
-Entao é apresentado os detalher pessoais do novo usuario
+Entao é apresentado os detalhes pessoais do novo usuario
 
 @teste2
 Cenario: Editar novo usuario
